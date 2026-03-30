@@ -24,7 +24,7 @@ The dashboard focuses on identifying key drivers of revenue, margin pressure, an
 ![Executive](Dashboard/executive-summary.png)
 
 ### 🔹 Sales & Performance Dashboard
-![Dashboard](dashboard/dashboard-overview.png)
+![Dashboard](Dashboard/dashboard-overview.png)
 
 ### 🔹 Customer Insights
 ![Customer](dashboard/customer-insights.png)
