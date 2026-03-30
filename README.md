@@ -27,7 +27,7 @@ The dashboard focuses on identifying key drivers of revenue, margin pressure, an
 ![Dashboard](Dashboard/dashboard-overview.png)
 
 ### 🔹 Customer Insights
-![Customer](dashboard/customer-insights.png)
+![Customer](Dashboard/customer-insights.png)
 
 ---
 
