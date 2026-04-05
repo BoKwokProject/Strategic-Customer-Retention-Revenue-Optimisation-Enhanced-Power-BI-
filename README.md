@@ -40,7 +40,7 @@ The dashboard focuses on identifying key drivers of revenue, margin pressure, an
 
 ---
 
-## 🚀 Recommendations
+## 🚀 Business Recommendations
 
 - Optimise pricing and discount strategies to improve profitability
 - Implement customer retention and reactivation programmes
